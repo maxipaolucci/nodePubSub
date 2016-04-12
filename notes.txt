@@ -1,0 +1,3 @@
+- for this project you must have redis install in your server/localhost (for mac do >brew install redis)
+
+- checkout the pubsub and the webserver repos from github
